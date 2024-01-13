@@ -1,0 +1,32 @@
+baseURL: http://49ehyeon42.site
+languageCode: kr
+title: 49EHyeon42 Blog
+theme: PaperMod
+
+# Categories, Tags 비활성화
+disableKinds:
+  - taxonomy
+  - term
+
+menu:
+  main:
+    - identifier: post
+      name: Post
+      url: post
+    - identifier: project
+      name: Project
+      url: project
+
+params:
+    profileMode:
+      enabled: true
+      title: TaeHyeon Jo
+      subtitle: 49EHyeon42
+      imageUrl: profile/yuzu.png
+      imageWidth: 256
+      imageHeight: 256
+    socialIcons:
+        - name: Email
+          url: mailto:49ehyeon42@gmail.com
+        - name: Github
+          url: https://github.com/49EHyeon42

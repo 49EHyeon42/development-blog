@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>49EHyeon42 Blog</title>
+    <link>http://49ehyeon42.site/</link>
+    <description>Recent content on 49EHyeon42 Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>kr</language>
+    <atom:link href="http://49ehyeon42.site/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

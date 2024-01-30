@@ -1,4 +1,4 @@
-baseURL: http://49ehyeon42.site
+baseURL: https://49ehyeon42.site
 languageCode: kr
 title: 49EHyeon42 Blog
 theme: PaperMod
@@ -30,3 +30,5 @@ params:
           url: mailto:49ehyeon42@gmail.com
         - name: Github
           url: https://github.com/49EHyeon42
+        - name: Baekjoon Online Judge
+          url: https://www.acmicpc.net/user/49ehyeon42

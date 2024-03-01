@@ -32,3 +32,7 @@ params:
           url: https://github.com/49EHyeon42
         - name: Baekjoon Online Judge
           url: https://www.acmicpc.net/user/49ehyeon42
+    # 코드 복사 버튼 추가
+    ShowCodeCopyButtons: true
+    # 게시물 아래에 다른 게시물 제안 추가
+    ShowPostNavLinks: true
